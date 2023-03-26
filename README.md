@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isurux98&label=Profile%20views&color=0e75b6&style=flat" alt="isurux98" /> </p>
 
-- 🔭 I’m currently learning **Bootstrap, React, Node, Laravel**
+- 🔭 I’m currently learning **MERN Stack, Javascript, Kotlin**
 
 - 💬 Ask me about **C++, Java, PHP, HTML, CSS, JS**
 
