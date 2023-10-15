@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Springboot, React Native, C# asp.net**
 
-- 👨‍💻 Visit my portfolio at [https://isurux98.github.io/](https://isurux98.github.io/)
+- 👨‍💻 Visit my portfolio at https://isurumadusanka.vercel.app/
 
 - 💬 Ask me about **Java, Javascript, PHP, HTML, CSS**
 
