@@ -2,7 +2,7 @@
 
 🎓 BSc (Hons) Software Engineering Student  
 🚀 Passionate about Java, and JavaScript  
-💻 Skilled in MERN stack, Springboot, Tailwind CSS, and Bootstrap 5
+💻 Skilled in MERN stack, UI/UX Designing, Tailwind CSS, and Bootstrap 5
 
 I'm eagerly seeking a software engineering internship to contribute to impactful projects, learn from a dynamic team, and fuel my passion for software development.
 
@@ -22,20 +22,5 @@ I'm eagerly seeking a software engineering internship to contribute to impactful
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap 5](https://img.shields.io/badge/-Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-## 🌱 Currently Learning
-
-I'm currently expanding my knowledge in:
-
-- UI/UX Design
-- Machine Learning
-- Deep Learning
-- C# .NET
-
-## 📫 Let's Connect!
-
-- LinkedIn: [My Profile](https://www.linkedin.com/in/isuru-madusanka-1b9210218/)
-- Email: [isurusanka98@gmail.com](mailto:isurusanka98@gmail.com)
-- Portfolio: [Visit Portfolio](https://isurumadusanka.vercel.app/)
 
 Feel free to reach out for collaboration, projects, or just a friendly chat. Let's create something amazing together!
