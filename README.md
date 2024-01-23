@@ -4,8 +4,6 @@
 🚀 Passionate about Java, and JavaScript  
 💻 Skilled in MERN stack, UI/UX Designing, Tailwind CSS, and Bootstrap 5
 
-I'm on a quest for new software engineering opportunities to tackle challenging projects, collaborate with innovative teams, and elevate my skills in the ever-evolving world of software development.
-
 ## 🔧 Technologies & Tools
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
