@@ -4,7 +4,7 @@
 🚀 Passionate about Java, and JavaScript  
 💻 Skilled in MERN stack, UI/UX Designing, Tailwind CSS, and Bootstrap 5
 
-I'm eagerly seeking a software engineering internship to contribute to impactful projects, learn from a dynamic team, and fuel my passion for software development.
+I'm on a quest for new software engineering opportunities to tackle challenging projects, collaborate with innovative teams, and elevate my skills in the ever-evolving world of software development.
 
 ## 🔧 Technologies & Tools
 
