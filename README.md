@@ -1,6 +1,7 @@
 # Hello there! I'm Isuru Madusanka 👋
 
-🎓 BSc (Hons) Software Engineering Student  
+🎓 BSc (Hons) Software Engineering Student
+😎 Intern Software Engineer at CreativeHub Global
 🚀 Passionate about Java, and JavaScript  
 💻 Skilled in MERN stack, UI/UX Designing, Tailwind CSS, and Bootstrap 5
 
