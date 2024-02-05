@@ -18,12 +18,15 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Koa](https://img.shields.io/badge/-Koa-333333?style=flat-square&logo=koajs&logoColor=white)
+![Scrapy](https://img.shields.io/badge/-Scrapy-3776AB?style=flat-square&logo=scrapy&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Springboot](https://img.shields.io/badge/-Springboot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-0088CC?style=flat-square&logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap 5](https://img.shields.io/badge/-Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/isuru-madusanka-1b9210218/) [![Email](https://img.icons8.com/fluent/48/000000/email.png)](mailto:isurusanka98@gmail.com) [![Portfolio](https://img.icons8.com/fluent/48/000000/domain.png)](https://isurumadusanka.vercel.app/)
 
