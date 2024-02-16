@@ -37,6 +37,6 @@
 ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=webstorm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
-[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/isuru-madusanka-1b9210218/) [![Email](https://img.icons8.com/fluent/48/000000/email.png)](mailto:isurusanka98@gmail.com) [![Portfolio](https://img.icons8.com/fluent/48/000000/domain.png)](https://isurumadusanka.vercel.app/)
+[![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/isuru-madusanka-1b9210218/) [![Email](https://img.icons8.com/fluent/48/000000/email.png)](mailto:isurusanka98@gmail.com) [![Portfolio](https://img.icons8.com/fluent/48/000000/domain.png)](https://isurumadusankanext.vercel.app/)
 
 Feel free to reach out for collaboration, projects, or just a friendly chat. Let's create something amazing together!
