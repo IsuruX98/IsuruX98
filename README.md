@@ -2,11 +2,11 @@
 
 🎓 BSc (Hons) Software Engineering Student
 
-😎 Intern Software Engineer at CreativeHub Global
+😎 Associate Software Engineer at Tecsota
 
 🚀 Passionate about Java, and JavaScript  
 
-💻 Skilled in MERN stack, UI/UX Designing, Tailwind CSS, and Bootstrap 5
+💻 Skilled in MERN stack, Strapi CMS, UI/UX Designing, Tailwind CSS, and Bootstrap 5
 
 ## 🔧 Technologies & Tools
 
