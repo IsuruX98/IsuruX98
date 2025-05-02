@@ -6,7 +6,7 @@
 
 🚀 Passionate about JavaScript, Typescript and Java  
 
-💻 Skilled in MERN stack, Next.js Strapi CMS, UI/UX Designing, Tailwind CSS, and Bootstrap 5
+💻 Skilled in MERN stack, Next.js, Strapi CMS, UI/UX Designing, Tailwind CSS, and Bootstrap 5
 
 ## 🔧 Technologies & Tools
 
