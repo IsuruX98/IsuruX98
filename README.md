@@ -2,7 +2,7 @@
 
 🎓 BSc (Hons) Software Engineering Student
 
-😎 Associate Software Engineer at Tecsota
+😎 Software Engineer at Tecsota
 
 🚀 Passionate about JavaScript, Typescript and Java  
 
