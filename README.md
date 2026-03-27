@@ -1,12 +1,12 @@
 # Hello there! I'm Isuru Madusanka 👋
 
-🎓 BSc (Hons) Software Engineering Student
-
 😎 Software Engineer at Tecsota
 
-🚀 Passionate about JavaScript, Typescript and Java  
+🎓 BSc (Hons) Software Engineering Graduate
 
-💻 Skilled in MERN stack, Next.js, Strapi CMS, UI/UX Designing, Tailwind CSS, and Bootstrap 5
+🚀 Passionate about JavaScript, Typescript and Java 
+
+💻 Skilled in Next.js, MERN stack, Strapi CMS, UI/UX Designing, Tailwind CSS, and Bootstrap 5
 
 ## 🔧 Technologies & Tools
 
