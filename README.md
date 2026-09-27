@@ -4,7 +4,7 @@ Software Engineer | Full-Stack Developer | BSc (Hons) Software Engineering
 
 I'm a Software Engineer focused on building scalable web and mobile applications using modern JavaScript and TypeScript technologies.
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
